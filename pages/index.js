@@ -149,9 +149,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <!--
         <div>
           <img src={logo} />
         </div>
+        -->
         <h1 className="m-5">DFA visualization tool</h1>
 
         <div style={{ width: "80vw" }}>
